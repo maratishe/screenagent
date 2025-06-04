@@ -1,0 +1,10 @@
+{
+    "name": "airbnb-monitor",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "AirBnB price monitoring with OpenAI image analysis",
+    "main": "analyze_image.js",
+    "dependencies": {
+      "openai": "^4.28.0"
+    }
+  }
